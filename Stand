@@ -1,6 +1,6 @@
 --[[
 
-Script : Da Hub Stand V1 
+Script : ren Stand V1 
 
 FFA : true
 
@@ -17,6 +17,27 @@ pcall(function()
     Text = "Made By: Renzel";
 
     Button1 = "Thanks!";
+
+    Duration = time;
+
+    })
+Script : Da Hub Stand V1 
+
+FFA : true
+
+Note : Free script you have no good reason to be here buddy lol
+
+]]
+
+pcall(function()
+
+    game.StarterGui:SetCore("SendNotification", {
+
+    Title = "Da Hub Stand";
+
+    Text = "special thanks to rhiza(bea)";
+
+    Button1 = "(・o・) special thanks";
 
     Duration = time;
 
